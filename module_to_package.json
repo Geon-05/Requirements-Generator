@@ -1,0 +1,15 @@
+{
+    "youtube_transcript_api": "youtube_transcript_api",
+    "mysql": "mysql-connector-python",
+    "flask": "flask",
+    "google": "google",
+    "googletrans": "googletrans",
+    "oauth": "oauth",
+    "authlib": "authlib",
+    "flask_session": "flask_session",
+    "flask_socketio": "flask_socketio",
+    "isodate": "isodate",
+    "qrcode": "qrcode",
+    "requests": "requests",
+    "googleapiclient": "google-api-python-client"
+}
